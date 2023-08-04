@@ -1,0 +1,1 @@
+from app.messages.models.message_model import Message
